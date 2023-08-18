@@ -1,5 +1,5 @@
 # PS
-This repository contains the author's implementation in Pytorch for method PS of SFDA method.
+This repository contains the implementation in Pytorch for method PS of SFDA method.
 
 ## Environment Requirement
 - python 3.6.5
