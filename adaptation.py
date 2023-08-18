@@ -245,7 +245,7 @@ def train_target_ps(args, zz=''):
             dis_loss2 = netD(target_features,False)
             dis_loss3 = netD(source_features1,True)
             dis_loss = dis_loss1+dis_loss2+dis_loss3
-            total_loss+=0*dis_loss
+            total_loss+= 0.5*dis_loss
 
             optimizer.zero_grad()
             optimizer_d.zero_grad()
