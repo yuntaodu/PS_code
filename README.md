@@ -1,5 +1,5 @@
-# Generation, augmentation, and alignment: A pseudo-source domain based method for source-free domain adaptation
-This repository contains the author's implementation in Pytorch for the paper "Generation, augmentation, and alignment: A pseudo-source domain based method for source-free domain adaptation".
+# PS
+This repository contains the author's implementation in Pytorch for method PS of SFDA method.
 
 ## Environment Requirement
 - python 3.6.5
